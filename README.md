@@ -10,8 +10,6 @@
 </div>
 
 
-<a href="https://github.com/frankyhub/KiCad-Loetuebung-xmas/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
 
 # Loetuebung xmas
 
