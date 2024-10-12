@@ -17,7 +17,7 @@
 
 ![Bild](pic/xmas_f.png)
 
-Wir [Link](https://github.com/vektorious/ "Alexander Kutschera")  haben diese Leiterplatte im Rahmen eines Bildungsworkshops über Elektronik verwendet. Die Anleitungen und Übungen für die Schülerinnen und Schüler befinden sich im Ordner edu. 
+Wir [Alexander Kutschera](https://github.com/vektorious/ "Alexander Kutschera")  haben diese Leiterplatte im Rahmen eines Bildungsworkshops über Elektronik verwendet. Die Anleitungen und Übungen für die Schülerinnen und Schüler befinden sich im Ordner edu. 
 
 ---
 
