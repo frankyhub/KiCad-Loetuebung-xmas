@@ -11,8 +11,8 @@
 
 
 <p align="center">
-    <img alt="ViewCount" src="https://views.whatilearened.today/views/github/MShawon/github-clone-count-badge.svg">
-    <a href='https://github.com/frankyhub/KiCad-Loetuebung-xmas'><img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MShawon/cf89f3274d06170b8a4973039aa6220a/raw/clone.json&logo=github'></a>
+    <img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">
+    <a href='https://github.com/frankyhub/KiCad-Loetuebung-xmas'><img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/frankyhub/cf89f3274d06170b8a4973039aa6220a/raw/clone.json&logo=github'></a>
 </p>
 
 
