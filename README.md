@@ -9,7 +9,6 @@
 | <a href="https://github.com/frankyhub/KiCad-Loetuebung-xmas/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/KiCad-Loetuebung-xmas/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
 </div>
  
-<a href="#" style="text-decoration: none;">Link</a>
 
 # Loetuebung xmas
 
