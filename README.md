@@ -10,11 +10,6 @@
 </div>
 
 
-<p align="center">
-    <img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">
-    <a href='https://github.com/frankyhub/KiCad-Loetuebung-xmas'></a>
-</p>
-
 
 # Loetuebung xmas
 
