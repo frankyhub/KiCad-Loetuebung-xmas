@@ -9,7 +9,8 @@
 |![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/KiCad-Loetuebung-xmas/pulls)| <img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg"> last 14days| ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
 </div>
 
-
+<a href="https://github.com/badges/shields/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
 
 # Loetuebung xmas
 
