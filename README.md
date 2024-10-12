@@ -6,11 +6,10 @@
 |--|--|--|
 | | | |
 |![GitHub issues](https://img.shields.io/github/issues/frankyhub/KiCad-Loetuebung-xmas)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/KiCad-Loetuebung-xmas)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/KiCad-Loetuebung-xmas)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/KiCad-Loetuebung-xmas)|
-| <a href="https://github.com/frankyhub/KiCad-Loetuebung-xmas/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/KiCad-Loetuebung-xmas/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg"> last 14days|<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+| <a href="https://github.com/frankyhub/KiCad-Loetuebung-xmas/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/KiCad-Loetuebung-xmas/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg"> <a href="#" style="text-decoration: none;">last 14days</a> |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
 </div>
-
-
-
+ 
+<a href="#" style="text-decoration: none;">Link</a>
 # Loetuebung xmas
 
 ![Bild](pic/xmas_f.png)
