@@ -10,7 +10,7 @@
 </div>
 
 
-
+https://api.github.com/repos//frankyhub/KiCad-Loetuebung-xmas/traffic/clones 
 
 
 # Loetuebung xmas
