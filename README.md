@@ -44,7 +44,7 @@ Welchen Wert hat R4 und R5?
 
 ---
 
-Die Platinen wurden von [PCBWay](https://www.pcbway.com/) gesponset. 
+Die Platinen wurden von [PCBWay](https://www.pcbway.com/) gesponsert. 
 
 ---
 
